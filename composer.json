@@ -10,7 +10,6 @@
     ],
     "require": {
         "php": ">=5.2.4",
-        "propel/propel1": "~1.6,>=1.6.4",
         "willdurand/geocoder": "~2.3"
     },
     "require-dev": {
