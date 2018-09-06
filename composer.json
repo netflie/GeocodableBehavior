@@ -1,5 +1,5 @@
 {
-    "name": "willdurand/propel-geocodable-behavior",
+    "name": "netflie/propel-geocodable-behavior",
     "description": "The GeocodableBehavior helps you build geo-aware applications. It automatically geocodes your models when they are saved, giving you the ability to search by location and calculate distances between records.",
     "keywords": [ "propel", "behavior", "geocoding", "geocodable" ],
     "authors": [
